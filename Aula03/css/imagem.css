@@ -1,0 +1,21 @@
+.dimensao {
+      width: 500px;
+}
+
+/* o que for declarado com ponto da seguinte forma:
+.declaracao e compreendido como uma classe no css */ 
+
+img {
+    border: solid 1px #000000;
+}
+
+/* o que for declarado como sendo um indetificador
+ de tag vai se aplicado em todas as ocorrencias em que aparecer */
+
+ #maria  {
+     border: dotted 5px #563157;
+ }
+ /* quando voce declara com # entao o tipo "id"
+ vai ser aplicado! esse tipo apesar de funconar 
+ nao e tam recomendado, pois ids precisam ser unicos
+ e nao se repetem */
